@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Entry point that return integer value
- * return : 0 if successful
+ * main - prints a sequence of characters
+ * return:0 if successful
  */
 
 int main(void)
