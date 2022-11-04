@@ -1,1 +1,1 @@
-c programming is procedural,imperative and general purpose programming language developed by DennisRitchie at Bell lab in 1972.
+0x09 static librariez
